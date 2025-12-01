@@ -1,6 +1,6 @@
 THIS WAS MADE ENTIRELY USING CHATGPT 🤖🤖🤖
 
-csp 0.24.0
+csp 0.2.4
 
 Mouse Steering – Throttle Percentage Modes + Smooth Version
 
@@ -60,4 +60,5 @@ Lower = smoother effect
 
 if you need help better ask chatgpt honestly
 But if you really want ask me (bad idea and i don't even speak English properly)
+
 https://www.reddit.com/user/daanielnoob/
